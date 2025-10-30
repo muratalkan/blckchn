@@ -1,0 +1,7 @@
+[package]
+
+name = "blckchn"
+version = "0.1.0"
+authors = ["Murat Alkan"]
+
+[dependencies]
